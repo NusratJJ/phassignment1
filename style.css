@@ -46,8 +46,8 @@ li{
     cursor: pointer;
 }
 .cls1{
-    height: 2024px;
-    width: 1364px;
+   width: 1360px;
+    height: 700px;
     background: url(./assets/hero-bg.png);
     background: url(cropped-hands-woman-writing-book),rgba(0, 25, 49, 0.8);
 }

@@ -226,7 +226,9 @@ li{
     display: flex;
     justify-content: space-between;
     padding: 120px;
+    width: 100px;
 }
+
 footer{
     max-width:1600px;
     background-color: #001931;
